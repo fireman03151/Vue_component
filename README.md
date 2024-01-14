@@ -95,10 +95,6 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 
 Thank you to all the people who already contributed to ant-design-vue!
 
-<a href="https://github.com/vueComponent/ant-design-vue/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vueComponent/ant-design-vue&max=100&columns=15" />
-</a>
-
 [![Let's fund issues in this repository](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/repos/104172832)
 
 This project is tested with BrowserStack.
